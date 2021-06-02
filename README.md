@@ -1,19 +1,19 @@
-Cordova Android Plugins
-========================
+# Cordova Android Plugins
+
 <br/><br/>
 
 This code is completely dependent on the Cordova project, also hosted on [Apache Cordova](https://cordova.apache.org/).
 <br/>
 Following are the list of plugins available.
+
 <ul>
 	<li>Native DatePicker</li>
 	<li>Sharing Plugin</li>
 </ul>
 
-Install Instructions:
-----
+## Install Instructions:
 
-   `cordova plugin add https://github.com/bikasv/cordova-android-plugins.git`
+`cordova plugin add https://github.com:BruceHill/cordova-android-plugins.git`
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
